@@ -54,7 +54,7 @@ Minimum (approximate):
 Install with pip (example — pick the correct torch wheel for your environment):
 pip install torch torchvision pandas pillow numpy matplotlib tqdm
 
-(If you prefer, I can add a `requirements.txt` to the repo.)
+
 
 ### Install
 1. Clone the repo:
