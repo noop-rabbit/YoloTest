@@ -151,7 +151,4 @@ This project references a LICENSE file in the repository. See `LICENSE` for lice
 
 ---
 
-If you'd like, I can:
-- create a `requirements.txt` with the specific package versions used during development,
-- add a small sample dataset with a couple of images + CSV to help get started faster,
-- add CI/build badges (e.g., GitHub Actions) and an initial CONTRIBUTING.md template.
+
